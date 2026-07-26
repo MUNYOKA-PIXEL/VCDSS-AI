@@ -1,0 +1,5 @@
+Timestamp,Species,Age,Temperature_C,Symptoms_Observed,Diagnosis,Confidence
+2026-07-26 15:08:11,sheep,4.0,40.0,"fatigue, painless lumps, sores on tongue",anthrax,94.81%
+2026-07-26 15:10:10,goat,3.0,40.0,"chest discomfort, lameness, sores on tongue, swelling in abdomen",anthrax,99.86%
+2026-07-26 15:25:21,sheep,3.5,40.1,"blisters on gums, depression, sores on mouth, sores on tongue",foot and mouth,91.84%
+2026-07-26 15:37:19,cow,3.0,40.0,"blisters on gums, chills, difficulty walking, fatigue, painless lumps, sores on hooves, sweats, swelling in muscle, swelling in neck",anthrax,98.51%
