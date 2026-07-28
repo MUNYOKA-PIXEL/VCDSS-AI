@@ -3,3 +3,9 @@ Timestamp,Species,Age,Temperature_C,Symptoms_Observed,Diagnosis,Confidence
 2026-07-26 15:10:10,goat,3.0,40.0,"chest discomfort, lameness, sores on tongue, swelling in abdomen",anthrax,99.86%
 2026-07-26 15:25:21,sheep,3.5,40.1,"blisters on gums, depression, sores on mouth, sores on tongue",foot and mouth,91.84%
 2026-07-26 15:37:19,cow,3.0,40.0,"blisters on gums, chills, difficulty walking, fatigue, painless lumps, sores on hooves, sweats, swelling in muscle, swelling in neck",anthrax,98.51%
+2026-07-27 11:33:09,cow,3.0,40.0,"blisters on gums, fatigue, lameness, sores on hooves, swelling in abdomen",anthrax,99.41%
+2026-07-27 11:36:48,sheep,3.5,40.1,"blisters on tongue, crackling sound, depression, painless lumps, shortness of breath, sweats, swelling in abdomen",anthrax,96.91%
+2026-07-27 11:37:21,cow,3.0,40.0,"blisters on gums, blisters on mouth, chest discomfort, crackling sound, difficulty walking",blackleg,99.94%
+2026-07-27 11:39:29,cow,3.0,40.0,"blisters on gums, blisters on mouth, fatigue, lameness, loss of appetite",foot and mouth,99.80%
+2026-07-27 11:45:03,sheep,6.0,43.0,"blisters on gums, blisters on mouth, chest discomfort",foot and mouth,98.40%
+2026-07-27 11:45:08,sheep,6.0,43.0,"blisters on gums, blisters on mouth, chest discomfort",foot and mouth,98.40%
