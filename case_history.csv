@@ -3,3 +3,11 @@ Timestamp,Species,Age,Temperature_C,Symptoms_Observed,Diagnosis,Confidence
 2026-07-26 15:10:10,goat,3.0,40.0,"chest discomfort, lameness, sores on tongue, swelling in abdomen",anthrax,99.86%
 2026-07-26 15:25:21,sheep,3.5,40.1,"blisters on gums, depression, sores on mouth, sores on tongue",foot and mouth,91.84%
 2026-07-26 15:37:19,cow,3.0,40.0,"blisters on gums, chills, difficulty walking, fatigue, painless lumps, sores on hooves, sweats, swelling in muscle, swelling in neck",anthrax,98.51%
+2026-07-28 01:28:03,sheep,3.0,36.0,"blisters on gums, swelling in neck",foot and mouth,99.42%
+2026-07-28 01:30:45,cow,3.0,36.5,"loss of appetite, sores on gums, sores on hooves, sores on mouth, sores on tongue",foot and mouth,99.96%
+2026-07-28 01:57:49,cow,3.0,40.0,,foot and mouth,99.80%
+2026-07-28 02:04:48,cow,2.0,41.0,"chest discomfort, crackling sound, depression, loss of appetite",blackleg,99.97%
+2026-07-28 02:07:35,cow,3.0,40.0,"chest discomfort, crackling sound, depression, loss of appetite, shortness of breath",blackleg,99.93%
+2026-07-28 02:07:57,cow,3.0,41.2,"chest discomfort, crackling sound, depression, loss of appetite, shortness of breath",blackleg,99.93%
+2026-07-28 02:08:14,cow,3.0,39.8,"depression, loss of appetite, shortness of breath",anthrax,98.75%
+2026-07-28 02:11:42,sheep,11.5,38.0,"difficulty walking, lameness, swelling in abdomen, swelling in limb, swelling in muscle, swelling in neck",blackleg,99.92%
