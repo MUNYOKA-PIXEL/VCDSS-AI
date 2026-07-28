@@ -9,3 +9,12 @@ Timestamp,Species,Age,Temperature_C,Symptoms_Observed,Diagnosis,Confidence
 2026-07-27 11:39:29,cow,3.0,40.0,"blisters on gums, blisters on mouth, fatigue, lameness, loss of appetite",foot and mouth,99.80%
 2026-07-27 11:45:03,sheep,6.0,43.0,"blisters on gums, blisters on mouth, chest discomfort",foot and mouth,98.40%
 2026-07-27 11:45:08,sheep,6.0,43.0,"blisters on gums, blisters on mouth, chest discomfort",foot and mouth,98.40%
+2026-07-28 01:28:03,sheep,3.0,36.0,"blisters on gums, swelling in neck",foot and mouth,99.42%
+2026-07-28 01:30:45,cow,3.0,36.5,"loss of appetite, sores on gums, sores on hooves, sores on mouth, sores on tongue",foot and mouth,99.96%
+2026-07-28 01:57:49,cow,3.0,40.0,,foot and mouth,99.80%
+2026-07-28 02:04:48,cow,2.0,41.0,"chest discomfort, crackling sound, depression, loss of appetite",blackleg,99.97%
+2026-07-28 02:07:35,cow,3.0,40.0,"chest discomfort, crackling sound, depression, loss of appetite, shortness of breath",blackleg,99.93%
+2026-07-28 02:07:57,cow,3.0,41.2,"chest discomfort, crackling sound, depression, loss of appetite, shortness of breath",blackleg,99.93%
+2026-07-28 02:08:14,cow,3.0,39.8,"depression, loss of appetite, shortness of breath",anthrax,98.75%
+2026-07-28 02:11:42,sheep,11.5,38.0,"difficulty walking, lameness, swelling in abdomen, swelling in limb, swelling in muscle, swelling in neck",blackleg,99.92%
+>>>>>>> 712e9de7ccdd8f3c2c8922ceee261613cd88d17b
