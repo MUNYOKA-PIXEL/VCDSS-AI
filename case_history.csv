@@ -17,4 +17,12 @@ Timestamp,Species,Age,Temperature_C,Symptoms_Observed,Diagnosis,Confidence
 2026-07-28 02:07:57,cow,3.0,41.2,"chest discomfort, crackling sound, depression, loss of appetite, shortness of breath",blackleg,99.93%
 2026-07-28 02:08:14,cow,3.0,39.8,"depression, loss of appetite, shortness of breath",anthrax,98.75%
 2026-07-28 02:11:42,sheep,11.5,38.0,"difficulty walking, lameness, swelling in abdomen, swelling in limb, swelling in muscle, swelling in neck",blackleg,99.92%
->>>>>>> 712e9de7ccdd8f3c2c8922ceee261613cd88d17b
+2026-07-28 19:35:33,sheep,4.0,41.3,"blisters on gums, blisters on mouth, chest discomfort",foot and mouth,98.40%
+2026-07-28 19:37:26,sheep,4.0,41.3,"blisters on gums, blisters on mouth, chest discomfort, painless lumps, sores on gums, sores on mouth, sores on tongue, sweats, swelling in abdomen, swelling in extremities, swelling in limb, swelling in muscle, swelling in neck",anthrax,97.66%
+2026-07-28 19:40:56,sheep,4.0,41.3,"blisters on gums, blisters on hooves, blisters on mouth, blisters on tongue, chest discomfort, chills, crackling sound, depression, difficulty walking, fatigue, lameness, loss of appetite, painless lumps, shortness of breath, sores on gums, sores on hooves, sores on mouth, sores on tongue, sweats, swelling in abdomen, swelling in extremities, swelling in limb, swelling in muscle, swelling in neck",anthrax,98.68%
+2026-07-28 19:41:22,sheep,4.0,41.3,"blisters on gums, blisters on mouth, chest discomfort, crackling sound, difficulty walking, lameness, painless lumps, sores on gums, sores on mouth, sweats, swelling in extremities, swelling in muscle",anthrax,97.11%
+2026-07-28 19:41:41,sheep,4.0,41.3,"sores on mouth, sweats, swelling in extremities, swelling in muscle",anthrax,99.77%
+2026-07-28 19:41:51,sheep,4.0,41.3,swelling in muscle,blackleg,99.77%
+2026-07-28 19:42:18,cow,4.0,42.0,"blisters on gums, blisters on mouth, chest discomfort",foot and mouth,98.40%
+2026-08-02 16:03:24,cow,3.0,40.0,,anthrax,99.61%
+2026-08-03 12:35:27,sheep,2.0,41.6,"blisters on gums, depression, lameness, shortness of breath",anthrax,98.65%

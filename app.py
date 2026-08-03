@@ -1,5 +1,5 @@
 # You can install or verify all dependencies at once in your terminal by running: pip install -r requirements.txt
-
+# python -m streamlit run app.py
 import streamlit as st
 import joblib
 import pandas as pd

@@ -1,0 +1,147 @@
+Animal_Type,Breed,Age,Gender,Weight,Symptom_1,Symptom_2,Symptom_3,Symptom_4,Duration,Appetite_Loss,Vomiting,Diarrhea,Coughing,Labored_Breathing,Lameness,Skin_Lesions,Nasal_Discharge,Eye_Discharge,Body_Temperature,Heart_Rate,Disease_Prediction
+Cow,Holstein,3,Female,600.0,Fever,Nasal Discharge,Labored Breathing,Coughing,5 days,Yes,No,No,Yes,Yes,No,No,Yes,No,40.1°C,90,Foot and Mouth Disease
+Cow,Jersey,4,Female,580.0,Lethargy,Decreased Milk Yield,Fever,No,8 days,Yes,No,No,No,No,No,No,No,No,39.6°C,70,Mastitis
+Cow,Hereford,5,Male,650.0,Fever,Lethargy,Decreased Milk Yield,Appetite Loss,5 days,Yes,No,No,No,No,No,No,No,No,39.7°C,80,Bovine Respiratory Disease
+Cow,Angus,3,Female,590.0,Decreased Milk Yield,Fever,Appetite Loss,Lethargy,7 days,Yes,No,No,No,No,No,No,No,No,39.5°C,70,Mastitis
+Cow,Angus,5,Female,700.0,Fever,Decreased Milk Yield,Lethargy,Nasal Discharge,7 days,Yes,No,No,Yes,Yes,No,No,Yes,No,39.8°C,80,Bovine Respiratory Disease
+Cow,Hereford,3,Female,650.0,Lethargy,Fever,Decreased Milk Yield,Nasal Discharge,8 days,Yes,No,No,Yes,No,No,No,No,No,39.6°C,75,Mastitis
+Cow,Holstein,4,Female,580.0,Appetite Loss,Diarrhea,Lethargy,Decreased Milk Yield,7 days,Yes,No,Yes,No,No,No,No,No,No,39.4°C,82,Johne's Disease
+Cow,Jersey,3,Male,620.0,Diarrhea,Lethargy,Appetite Loss,Decreased Milk Yield,8 days,Yes,No,Yes,No,No,No,No,No,No,39.7°C,79,Salmonellosis
+Cow,Angus,6,Male,600.0,Coughing,Nasal Discharge,Labored Breathing,Fever,7 days,No,No,No,Yes,Yes,No,No,No,No,39.9°C,82,Bovine Respiratory Disease
+Cow,Hereford,3,Female,570.0,Lethargy,Diarrhea,Appetite Loss,Dehydration,6 days,Yes,No,No,No,No,Yes,No,No,No,39.1°C,80,Bovine Viral Diarrhea
+Cow,Brahman,7,Female,620.0,Fever,Coughing,Lethargy,Decreased Milk Yield,5 days,Yes,No,Yes,Yes,No,Yes,No,No,No,39.6°C,81,Mastitis
+Cow,Limousin,2,Male,550.0,Diarrhea,Lethargy,Appetite Loss,Dehydration,4 days,Yes,No,No,Yes,Yes,No,Yes,No,No,39.5°C,85,Cryptosporidiosis
+Cow,Red Angus,5,Female,620.0,Fever,Diarrhea,Lethargy,Appetite Loss,4 days,Yes,No,Yes,No,Yes,No,Yes,Yes,No,39.8°C,83,Bovine Leukemia Virus
+Cow,Guernsey,4,Male,590.0,Appetite Loss,Lethargy,Diarrhea,Dehydration,5 days,Yes,No,No,Yes,No,No,Yes,No,No,39.3°C,84,Bovine Coccidiosis
+Cow,Jersey,6,Female,600.0,Fever,Nasal Discharge,Decreased Milk Yield,Lethargy,5 days,Yes,No,No,Yes,No,Yes,No,No,No,39.4°C,86,Bovine Respiratory Syncytial Virus
+Cow,Holstein,7,Male,590.0,Coughing,Nasal Discharge,Labored Breathing,Lethargy,4 days,No,No,No,Yes,Yes,No,Yes,No,No,39.9°C,80,Bovine Pneumonia
+Cow,Simmental,8,Female,630.0,Loss of Appetite,Weight Loss,Lethargy,Reduced Milk Production,7 days,No,Yes,No,No,Yes,Yes,Yes,No,No,39.5°C,83,Johne's Disease
+Cow,Shorthorn,5,Male,600.0,Diarrhea,Dehydration,Lethargy,Loss of Appetite,5 days,Yes,No,No,Yes,No,Yes,No,No,Yes,39.4°C,84,Salmonellosis
+Cow,Brahman,3,Female,570.0,Fever,Nasal Discharge,Lethargy,Coughing,4 days,Yes,No,No,Yes,No,Yes,No,No,Yes,39.8°C,86,Respiratory Syncytial Virus
+Cow,Jersey,6,Male,620.0,Weight Loss,Reduced Milk Production,Lethargy,Appetite Loss,7 days,Yes,No,Yes,No,Yes,Yes,No,No,No,39.4°C,87,Tuberculosis
+Cow,Brown Swiss,3,Female,580.0,Diarrhea,Dehydration,Loss of Appetite,Lethargy,5 days,Yes,Yes,No,No,No,Yes,No,No,Yes,39.3°C,85,Coccidiosis
+Cow,Guernsey,5,Male,610.0,Nasal Discharge,Coughing,Labored Breathing,Fever,3 days,Yes,No,Yes,No,No,Yes,No,No,Yes,39.9°C,82,Bovine Influenza
+Cow,Limousin,6,Female,620.0,Weight Loss,Reduced Milk Production,Appetite Loss,Lethargy,10 days,Yes,Yes,No,Yes,No,Yes,No,No,Yes,39.4°C,85,Johne's Disease
+Sheep,Merino,4,Male,75.0,Coughing,Labored Breathing,Nasal Discharge,Fever,4 days,Yes,No,No,Yes,No,Yes,Yes,No,No,40.0°C,78,Pneumonia
+Goat,Boer,5,Female,68.0,Diarrhea,Dehydration,Lethargy,Loss of Appetite,6 days,Yes,No,Yes,No,No,Yes,No,No,Yes,39.3°C,82,Coccidiosis
+Cow,Angus,8,Male,580.0,Coughing,Labored Breathing,Lethargy,Nasal Discharge,5 days,Yes,No,No,Yes,No,Yes,No,No,Yes,40.0°C,83,Bovine Respiratory Disease
+Sheep,Suffolk,3,Female,80.0,Weight Loss,Lethargy,Loss of Appetite,Reduced Wool Growth,8 days,Yes,No,Yes,No,No,Yes,No,Yes,No,39.8°C,77,Scrapie
+Goat,Alpine,4,Male,72.0,Fever,Lethargy,Weight Loss,Loss of Appetite,7 days,No,Yes,No,No,Yes,Yes,No,No,Yes,39.7°C,83,Caprine Arthritis Encephalitis
+Cow,Hereford,7,Female,590.0,Diarrhea,Dehydration,Lethargy,Appetite Loss,6 days,Yes,Yes,No,No,Yes,No,No,Yes,No,39.3°C,84,Bovine Johne's Disease
+Sheep,Dorper,6,Male,65.0,Coughing,Labored Breathing,Nasal Discharge,Appetite Loss,4 days,No,No,Yes,Yes,No,Yes,Yes,No,Yes,39.9°C,80,Pasteurellosis
+Goat,Nubian,3,Female,70.0,Diarrhea,Dehydration,Lethargy,Appetite Loss,5 days,Yes,Yes,No,No,No,Yes,No,Yes,Yes,39.4°C,81,Giardiasis
+Cow,Jersey,6,Male,570.0,Coughing,Nasal Discharge,Labored Breathing,Fever,5 days,Yes,No,Yes,No,Yes,No,No,Yes,Yes,39.4°C,81,Bovine Tuberculosis
+Sheep,Cheviot,5,Male,85.0,Weight Loss,Reduced Wool Production,Lethargy,Loss of Appetite,7 days,Yes,Yes,No,No,Yes,No,No,No,Yes,39.2°C,79,Foot-and-Mouth Disease
+Goat,Toggenburg,7,Female,65.0,Diarrhea,Dehydration,Lethargy,Appetite Loss,5 days,Yes,Yes,No,Yes,No,Yes,No,Yes,No,39.3°C,80,Coccidiosis
+Cow,Brown Swiss,9,Male,600.0,Labored Breathing,Nasal Discharge,Coughing,Fever,6 days,Yes,No,Yes,Yes,No,Yes,No,No,Yes,39.6°C,80,Bovine Respiratory Disease
+Sheep,Romney,6,Female,78.0,Weight Loss,Lethargy,Loss of Appetite,Swollen Joints,9 days,Yes,Yes,No,Yes,No,No,Yes,Yes,No,39.7°C,76,Scrapie
+Goat,Kiko,3,Male,75.0,Nasal Discharge,Fever,Weight Loss,Loss of Appetite,6 days,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,39.2°C,82,Caprine Respiratory Disease
+Cow,Holstein,7,Female,650.0,Coughing,Nasal Discharge,Appetite Loss,Fever,5 days,Yes,No,No,Yes,Yes,No,No,Yes,No,39.4°C,79,Bovine Tuberculosis
+Sheep,Lincoln,8,Male,95.0,Lethargy,Swollen Joints,Fever,Loss of Appetite,6 days,No,Yes,No,Yes,Yes,No,Yes,No,Yes,39.9°C,75,Footrot
+Goat,LaMancha,5,Female,72.0,Diarrhea,Loss of Appetite,Lethargy,Dehydration,7 days,Yes,No,Yes,No,No,Yes,No,Yes,No,39.2°C,82,Gastrointestinal Infection
+Cow,Simmental,8,Male,580.0,Appetite Loss,Weight Loss,Fever,Lethargy,6 days,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,39.3°C,80,Bovine Johne's Disease
+Cow,Angus,6,Male,550.0,Coughing,Nasal Discharge,Fever,Weight Loss,7 days,Yes,No,Yes,Yes,Yes,No,Yes,No,No,39.4°C,82,Bovine Respiratory Disease
+Sheep,Texel,4,Female,85.0,Lameness,Swollen Joints,Loss of Appetite,Diarrhea,5 days,Yes,No,No,Yes,No,No,Yes,Yes,No,39.3°C,76,Blue Tongue Virus
+Goat,Alpine,5,Male,72.0,Vomiting,Diarrhea,Fever,Loss of Appetite,6 days,Yes,Yes,No,Yes,No,No,Yes,Yes,No,39.0°C,81,Caprine Arthritis Encephalitis
+Cow,Charolais,5,Female,620.0,Lethargy,Coughing,Nasal Discharge,Fever,4 days,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,39.6°C,81,Bovine Tuberculosis
+Sheep,Suffolk,6,Male,90.0,Swollen Joints,Loss of Appetite,Lethargy,Coughing,5 days,Yes,Yes,No,Yes,No,Yes,No,Yes,No,39.4°C,78,Caseous Lymphadenitis
+Goat,Boer,3,Female,70.0,Fever,Vomiting,Diarrhea,Appetite Loss,5 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,39.5°C,80,Caprine Pleuropneumonia
+Cow,Hereford,7,Female,580.0,Loss of Appetite,Fever,Coughing,Lethargy,6 days,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,39.5°C,80,Bovine Johne's Disease
+Sheep,Border Leicester,5,Male,90.0,Lethargy,Nasal Discharge,Swollen Joints,Loss of Appetite,5 days,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,39.7°C,74,Chlamydia in Sheep
+Goat,Nubian,6,Female,60.0,Vomiting,Fever,Loss of Appetite,Lethargy,5 days,Yes,No,Yes,Yes,No,Yes,No,No,No,39.3°C,82,Caprine Respiratory Disease
+Cow,Jersey,5,Female,500.0,Coughing,Nasal Discharge,Lethargy,Fever,5 days,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,39.5°C,81,Bovine Viral Diarrhea
+Cow,Holstein,5,Female,620.0,Coughing,Fever,Loss of Appetite,Lethargy,7 days,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,39.3°C,82,Bovine Respiratory Syncytial Virus
+Sheep,Finnsheep,4,Male,70.0,Coughing,Lethargy,Loss of Appetite,Swollen Joints,5 days,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,39.0°C,75,Scrapie
+Goat,Saanen,5,Female,65.0,Vomiting,Fever,Diarrhea,Loss of Appetite,6 days,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,39.4°C,80,Caprine Pleuropneumonia
+Cow,Guernsey,7,Male,590.0,Coughing,Lethargy,Loss of Appetite,Swollen Legs,6 days,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,39.1°C,78,Bovine Tuberculosis
+Sheep,Leicester Longwool,6,Male,95.0,Swollen Joints,Loss of Appetite,Coughing,Lethargy,5 days,Yes,No,Yes,No,Yes,No,No,Yes,No,39.4°C,74,Chlamydia in Sheep
+Goat,Nigerian Dwarf,2,Female,55.0,Vomiting,Fever,Loss of Appetite,Lethargy,4 days,Yes,Yes,No,Yes,No,No,Yes,No,Yes,39.2°C,82,Caprine Arthritis Encephalitis
+Cow,Aberdeen Angus,6,Female,620.0,Coughing,Fever,Loss of Appetite,Lethargy,5 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,39.2°C,80,Bovine Respiratory Disease
+Sheep,Dorset,3,Male,75.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,Yes,Yes,No,Yes,No,No,39.1°C,77,Foot and Mouth Disease
+Goat,Toggenburg,5,Female,60.0,Vomiting,Diarrhea,Loss of Appetite,Fever,4 days,Yes,Yes,Yes,No,Yes,No,Yes,No,No,39.6°C,81,Caprine Pleuropneumonia
+Cow,Ayrshire,4,Male,630.0,Coughing,Lethargy,Loss of Appetite,Swollen Legs,6 days,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,39.1°C,79,Bovine Tuberculosis
+Cow,Jersey,5,Male,560.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,39.1°C,79,Bovine Tuberculosis
+Sheep,Suffolk,5,Female,90.0,Coughing,Lethargy,Loss of Appetite,Fever,4 days,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,39.2°C,72,Foot and Mouth Disease
+Goat,Boer,6,Male,70.0,Vomiting,Diarrhea,Loss of Appetite,Fever,5 days,Yes,Yes,No,Yes,No,Yes,Yes,No,No,39.4°C,80,Caprine Arthritis Encephalitis
+Cow,Simmental,4,Male,650.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,39.3°C,78,Bovine Respiratory Syncytial Virus
+Sheep,Karakul,5,Male,80.0,Swollen Joints,Coughing,Loss of Appetite,Lethargy,4 days,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,39.4°C,75,Scrapie
+Goat,Angora,6,Female,60.0,Vomiting,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,39.6°C,83,Caprine Pleuropneumonia
+Cow,Dexter,3,Male,450.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,39.3°C,79,Bovine Viral Diarrhea
+Sheep,Corriedale,4,Female,95.0,Swollen Joints,Coughing,Loss of Appetite,Lethargy,5 days,Yes,No,No,Yes,Yes,Yes,No,Yes,No,39.1°C,76,Blue Tongue
+Goat,Kiko,5,Male,72.0,Vomiting,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,39.5°C,80,Caprine Pleuropneumonia
+Cow,Charolais,3,Male,700.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,39.2°C,77,Bovine Tuberculosis
+Cow,Holstein,4,Male,700.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,No,Yes,No,Yes,No,Yes,39.3°C,77,Bovine Respiratory Disease
+Sheep,Southdown,6,Female,80.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,Yes,No,Yes,Yes,No,No,39.3°C,74,Contagious Ecthyma
+Goat,Nubian,4,Male,72.0,Vomiting,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,39.6°C,80,Pneumonia
+Cow,Guernsey,5,Female,450.0,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,39.0°C,78,Bovine Parainfluenza
+Sheep,Tunis,4,Male,95.0,Swollen Joints,Coughing,Loss of Appetite,Lethargy,5 days,Yes,Yes,No,Yes,No,Yes,Yes,No,No,39.2°C,76,Bluetongue Virus
+Goat,Boer,6,Female,75.0,Vomiting,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,39.7°C,82,Caprine Viral Arthritis
+Cow,Red Poll,4,Male,680.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,39.4°C,77,Bovine Tuberculosis
+Sheep,Romney,5,Female,90.0,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,39.1°C,75,Maedi-Visna
+Goat,Alpine,5,Male,80.0,Vomiting,Diarrhea,Loss of Appetite,Fever,4 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,39.5°C,80,Caseous Lymphadenitis
+Cow,Jersey,6,Female,500.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,39.2°C,75,Bovine Viral Diarrhea
+Sheep,Blackface,4,Male,95.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,No,Yes,No,Yes,Yes,No,Yes,No,39.3°C,77,Blue Tongue Disease
+Goat,Saanen,5,Female,85.0,Vomiting,Diarrhea,Lethargy,Fever,6 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,39.6°C,85,Caprine Arthritis Encephalitis
+Cow,Ayrshire,5,Male,720.0,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,39.3°C,82,Bovine Tuberculosis
+Sheep,Suffolk,4,Male,85.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,No,No,Yes,Yes,No,39.4°C,78,Contagious Abortion
+Goat,Nubian,6,Female,95.0,Vomiting,Diarrhea,Lethargy,Fever,6 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,39.8°C,80,Pneumonia
+Cow,Belted Galloway,4,Female,650.0,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,39.4°C,75,Bovine Tuberculosis
+Sheep,Cheviot,3,Female,75.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,No,No,Yes,Yes,No,39.3°C,77,Foot-and-Mouth Disease
+Goat,Angora,4,Male,90.0,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,39.6°C,82,Caprine Arthritis
+Cow,Holstein,8,Male,650.0,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,39.5°C,80,Bovine Respiratory Disease Complex
+Sheep,Rambouillet,5,Female,90.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,39.3°C,78,Scrapie
+Goat,Boer,6,Male,100.0,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,39.6°C,85,Pneumonia
+Cow,Jersey,6,Female,550.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,No,Yes,Yes,No,Yes,No,39.6°C,70,Johne's Disease
+Sheep,Suffolk,4,Male,110.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,39.3°C,77,Bluetongue
+Goat,Nubian,7,Female,120.0,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,39.7°C,85,Foot-and-Mouth Disease
+Cow,Ayrshire,7,Female,550.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,39.4°C,75,Bovine Johne's Disease
+Sheep,Dorper,4,Male,95.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,No,Yes,Yes,No,No,39.3°C,78,Contagious Ecthyma
+Goat,Saanen,8,Female,110.0,Vomiting,Diarrhea,Lethargy,Fever,6 days,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,39.8°C,85,Caprine Arthritis Encephalitis
+Cow,Guernsey,5,Female,600.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,39.6°C,85,Bovine Tuberculosis
+Cow,Charolais,8,Male,700.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,39.2°C,75,Bovine Respiratory Disease
+Sheep,Blackface,6,Male,95.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,39.4°C,80,Foot-and-Mouth Disease
+Goat,Kiko,4,Female,90.0,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,39.6°C,85,Caprine Arthritis Encephalitis
+Cow,Simmental,7,Female,650.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,39.3°C,75,Bovine Tuberculosis
+Sheep,Texel,5,Male,110.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,39.4°C,70,Scrapie
+Goat,Angora,7,Female,100.0,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,39.7°C,80,Pneumonia
+Cow,Jersey,6,Male,550.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,39.5°C,70,Bovine Johne's Disease
+Sheep,Rambouillet,6,Female,90.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,39.6°C,80,Bluetongue
+Goat,Boer,7,Female,120.0,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,39.5°C,90,Foot-and-Mouth Disease
+Cow,Holstein,8,Female,750.0,Coughing,Loss of Appetite,Lethargy,Fever,7 days,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,39.5°C,85,Bovine Respiratory Disease Complex
+Sheep,Cheviot,4,Male,85.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,39.3°C,95,Blue Tongue Virus
+Goat,Saanen,2,Male,85.0,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,39.6°C,90,Caprine Arthritis Encephalitis Virus
+Cow,Angus,5,Female,650.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,39.3°C,75,Bovine Tuberculosis
+Sheep,Suffolk,6,Female,120.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,39.5°C,80,Scrapie Disease
+Goat,Toggenburg,5,Female,75.0,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,39.7°C,85,Pneumonia
+Cow,Limousin,6,Male,650.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,39.5°C,80,Bovine Respiratory Disease Complex
+Sheep,Merino,7,Male,90.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,39.4°C,90,Bluetongue
+Goat,Alpine,6,Male,110.0,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.6°C,90,Caprine Arthritis Encephalitis Virus
+Cow,Jersey,3,Female,600.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,39.4°C,95,Bovine Respiratory Disease
+Sheep,Dorset,6,Male,120.0,Coughing,Loss of Appetite,Lethargy,Fever,7 days,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,39.5°C,85,Scrapie
+Goat,Nubian,2,Female,80.0,Vomiting,Diarrhea,Lethargy,Fever,4 days,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,39.7°C,90,Caprine Arthritis Encephalitis
+Cow,Angus,4,Female,650.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,39.5°C,90,Bovine Tuberculosis
+Sheep,Suffolk,7,Male,130.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,39.3°C,85,Bluetongue Virus
+Goat,Alpine,3,Female,75.0,Vomiting,Diarrhea,Lethargy,Fever,4 days,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,39.7°C,95,Caprine Arthritis Encephalitis
+Cow,Charolais,8,Female,750.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,39.3°C,80,Bovine Respiratory Disease
+Sheep,Hampshire,6,Male,125.0,Coughing,Loss of Appetite,Lethargy,Fever,7 days,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,39.6°C,85,Scrapie Disease
+Goat,Nubian,4,Male,80.0,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,39.6°C,90,Caprine Respiratory Disease
+Cow,Holstein,3,Male,700.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.2°C,90,Bovine Mastitis
+Cow,Guernsey,3,Male,580.0,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.4°C,85,Bovine Respiratory Disease
+Sheep,Dorset,4,Male,125.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,39.3°C,80,Scrapie
+Goat,Saanen,3,Female,75.0,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,39.5°C,90,Caprine Arthritis Encephalitis
+Sheep,Cheviot,3,Female,110.0,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,Yes,No,Yes,Yes,No,No,Yes,No,39.4°C,80,Bluetongue
+Goat,Boer,5,Male,85.0,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,39.6°C,95,Goat Pox
+Cow,Ayrshire,3,Female,700.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,39.4°C,90,Bovine Respiratory Disease
+Goat,Kiko,4,Female,70.0,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,39.5°C,90,Caprine Arthritis Encephalitis
+Cow,Jersey,2,Male,550.0,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,39.2°C,95,Bovine Mastitis
+Cow,Simmental,4,Female,700.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,39.4°C,100,Bovine Respiratory Disease
+Sheep,Suffolk,3,Male,110.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,39.3°C,80,Bluetongue
+Goat,Toggenburg,2,Female,70.0,Vomiting,Diarrhea,Lethargy,Fever,4 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,39.4°C,90,Caprine Arthritis Encephalitis
+Cow,Dexter,2,Male,500.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,39.4°C,95,Bovine Tuberculosis
+Sheep,Cheviot,4,Female,120.0,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.4°C,85,Scrapie
+Goat,Alpine,3,Male,75.0,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,39.5°C,100,Caprine Viral Arthritis
+Goat,Nubian,4,Female,80.0,Vomiting,Diarrhea,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.5°C,95,Caprine Respiratory Disease
+Sheep,Dorset,5,Male,150.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,39.5°C,90,Scrapie
+Sheep,Southdown,6,Male,130.0,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.3°C,80,Foot-and-Mouth Disease
+Cow,Holstein,3,Female,600.0,Fever,Nasal Discharge,Labored Breathing,Coughing,5 days,Yes,No,No,Yes,Yes,No,No,Yes,No,40.1°C,90,Foot and Mouth Disease
+Cow,Jersey,4,Female,580.0,Lethargy,Decreased Milk Yield,Fever,No,8 days,Yes,No,No,No,No,No,No,No,No,39.6°C,70,Mastitis
