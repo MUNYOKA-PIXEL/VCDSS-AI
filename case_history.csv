@@ -17,6 +17,11 @@ Timestamp,Species,Age,Temperature_C,Symptoms_Observed,Diagnosis,Confidence
 2026-07-28 02:07:57,cow,3.0,41.2,"chest discomfort, crackling sound, depression, loss of appetite, shortness of breath",blackleg,99.93%
 2026-07-28 02:08:14,cow,3.0,39.8,"depression, loss of appetite, shortness of breath",anthrax,98.75%
 2026-07-28 02:11:42,sheep,11.5,38.0,"difficulty walking, lameness, swelling in abdomen, swelling in limb, swelling in muscle, swelling in neck",blackleg,99.92%
+2026-08-03 15:34:14,cow,1.0,40.0,"sores on hooves, sores on mouth, swelling in abdomen",foot and mouth,99.80%
+2026-08-03 15:37:32,sheep,2.0,43.5,"blisters on gums, blisters on hooves, blisters on mouth, blisters on tongue",foot and mouth,99.83%
+2026-08-03 15:38:29,cow,2.0,38.4,"chest discomfort, chills, fatigue, lameness, loss of appetite, shortness of breath, sweats",anthrax,99.95%
+2026-08-03 15:40:31,cow,3.0,40.1,"chest discomfort, loss of appetite, shortness of breath",anthrax,99.86%
+2026-08-03 15:42:11,cow,1.5,40.1,"crackling sound, depression, lameness, loss of appetite, shortness of breath",blackleg,99.96%
 2026-07-28 19:35:33,sheep,4.0,41.3,"blisters on gums, blisters on mouth, chest discomfort",foot and mouth,98.40%
 2026-07-28 19:37:26,sheep,4.0,41.3,"blisters on gums, blisters on mouth, chest discomfort, painless lumps, sores on gums, sores on mouth, sores on tongue, sweats, swelling in abdomen, swelling in extremities, swelling in limb, swelling in muscle, swelling in neck",anthrax,97.66%
 2026-07-28 19:40:56,sheep,4.0,41.3,"blisters on gums, blisters on hooves, blisters on mouth, blisters on tongue, chest discomfort, chills, crackling sound, depression, difficulty walking, fatigue, lameness, loss of appetite, painless lumps, shortness of breath, sores on gums, sores on hooves, sores on mouth, sores on tongue, sweats, swelling in abdomen, swelling in extremities, swelling in limb, swelling in muscle, swelling in neck",anthrax,98.68%
